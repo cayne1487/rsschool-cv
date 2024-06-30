@@ -12,6 +12,18 @@
 Hardworking Student with a passion for web-development industry. A motivated final-year student who is currently studying at the university with a lexible schedule that allows working full-time. Can communicate with ease with native English speakers. Constantly growing as a software developer and able to quickly grasp new material. Have an ability to manage complex obstacles, proven quality of being extremely careful to little details. Majoring in informatics and having done several projects and have familiarity with some of the most popular programming languages, namely Java, C++, Python, along with different technologies, such as Web (HTML, CSS, JS), Mobile (Android)development and
 basics of MySQL. Additionally have an experience with Linux and Git. I have motivation to develop and work, I am ready to deal with new projects, frameworks and development tools, as well as work on complex tasks. My strengths in technologies are the ability to understand something new, as well as reine an already inished product. I also try to deal with everything to the end, without giving up in the middle. I've learned several languages and frameworks at the university. Strong engineering professional with Bachelor’s degree focused on computer science.
 
+## Skills 
+
+- **Languages**
+    - HTML
+    - CSS
+    - Javascript
+- **Frameworks**
+    - React.js
+- **VCS**
+    - Git
+    - Github
+
 ## Code example
 
 ```javascript
